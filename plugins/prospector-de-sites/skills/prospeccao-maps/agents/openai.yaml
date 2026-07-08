@@ -1,0 +1,8 @@
+interface:
+  display_name: "Prospecção Maps"
+  short_description: "Qualifica leads com sites ruins"
+  brand_color: "#2563EB"
+  default_prompt: "Use $prospeccao-maps para encontrar leads bem avaliados com sites fracos."
+
+policy:
+  allow_implicit_invocation: true

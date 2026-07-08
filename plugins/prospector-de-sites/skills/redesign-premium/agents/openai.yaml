@@ -1,0 +1,8 @@
+interface:
+  display_name: "Redesign Premium"
+  short_description: "Recria sites com editor e comparador"
+  brand_color: "#2563EB"
+  default_prompt: "Use $redesign-premium para redesenhar paginas de leads prospectados."
+
+policy:
+  allow_implicit_invocation: true

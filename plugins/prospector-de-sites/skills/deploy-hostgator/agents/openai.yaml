@@ -1,0 +1,8 @@
+interface:
+  display_name: "Deploy HostGator"
+  short_description: "Publica paginas em hospedagem HostGator"
+  brand_color: "#2563EB"
+  default_prompt: "Use $deploy-hostgator para publicar uma pagina redesenhada na HostGator."
+
+policy:
+  allow_implicit_invocation: true

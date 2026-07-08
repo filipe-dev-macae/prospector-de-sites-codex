@@ -1,0 +1,8 @@
+interface:
+  display_name: "Setup Prospector"
+  short_description: "Configura assinatura, nichos e HostGator"
+  brand_color: "#2563EB"
+  default_prompt: "Use $setup-prospector para configurar o Prospector de Sites uma unica vez."
+
+policy:
+  allow_implicit_invocation: true

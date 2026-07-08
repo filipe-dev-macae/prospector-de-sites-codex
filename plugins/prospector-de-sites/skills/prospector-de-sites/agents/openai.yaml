@@ -1,0 +1,8 @@
+interface:
+  display_name: "Prospector de Sites"
+  short_description: "Coordena prospeccao, redesign e propostas"
+  brand_color: "#2563EB"
+  default_prompt: "Use $prospector-de-sites para rodar o fluxo completo de prospeccao e redesign."
+
+policy:
+  allow_implicit_invocation: true

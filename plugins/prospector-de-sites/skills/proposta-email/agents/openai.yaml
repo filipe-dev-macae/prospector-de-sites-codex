@@ -1,0 +1,8 @@
+interface:
+  display_name: "Proposta por E-mail"
+  short_description: "Prepara propostas comerciais sem preco"
+  brand_color: "#2563EB"
+  default_prompt: "Use $proposta-email para preparar uma proposta para um lead publicado."
+
+policy:
+  allow_implicit_invocation: true

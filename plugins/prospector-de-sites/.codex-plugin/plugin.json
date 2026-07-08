@@ -1,0 +1,37 @@
+{
+  "name": "prospector-de-sites",
+  "version": "0.4.2+codex.local",
+  "description": "Prospecção semi-automática para vender redesigns de sites: encontra leads, recria páginas premium, gera editor/comparador, publica na HostGator e prepara propostas.",
+  "author": {
+    "name": "Helio Arreche",
+    "url": "https://github.com/ArrecheNeto"
+  },
+  "repository": "https://github.com/ArrecheNeto/PROSPECTOR-DE-SITES",
+  "keywords": [
+    "prospeccao",
+    "landing-page",
+    "redesign",
+    "hostgator",
+    "google-maps",
+    "gmail"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Prospector de Sites",
+    "shortDescription": "Prospecção, redesign e proposta para sites ruins.",
+    "longDescription": "Fluxo Codex-first para encontrar negócios bem avaliados com sites fracos, redesenhar páginas com estética premium, gerar editor visual e comparador, publicar na HostGator e preparar propostas comerciais sem depender obrigatoriamente de conectores externos.",
+    "developerName": "Helio Arreche",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Interactive"
+    ],
+    "websiteURL": "https://github.com/ArrecheNeto/PROSPECTOR-DE-SITES",
+    "defaultPrompt": [
+      "Use $setup-prospector para configurar minha prospeccao.",
+      "Use $prospector-de-sites para redesenhar os leads em leads.md.",
+      "Use $prospector-de-sites para preparar propostas dos sites publicados."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
